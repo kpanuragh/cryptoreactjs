@@ -30,7 +30,7 @@
     "react-native": ">= 0.48.0"
   },
   "dependencies": {
-    "node-forge": "^0.7.1"
+    "node-forge": "^0.10.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
